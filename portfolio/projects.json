@@ -4,9 +4,24 @@
         "image": "UrlBuster",
         "link": "https://github.com/PedroSilva8/UrlBuster"
     },
-    {
-        "text": "Portfolio",
+    { 
+        "text": "Portfolio Web",
         "image": "Portfolio",
-        "link": "https://github.com/PedroSilva8/UrlBuster"
+        "link": "https://github.com/PedroSilva8/PortfolioWeb"
+    },
+    { 
+        "text": "Portfolio Server",
+        "image": "Portfolio",
+        "link": "https://github.com/PedroSilva8/PortfolioServer"
+    },
+    { 
+        "text": "MUSS-Web",
+        "image": "MUSS",
+        "link": "https://github.com/PedroSilva8/MUSS-Web"
+    },
+    { 
+        "text": "MUSS-Server",
+        "image": "MUSS",
+        "link": "https://github.com/PedroSilva8/MUSS-Server"
     }
 ]
